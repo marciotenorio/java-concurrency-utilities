@@ -4,7 +4,10 @@
 ### Prof. Dr. Everton Ranielly De Sousa Cavalcante
 #### Discentes: Márcio Tenório Júnior e Roberto Manaia dos Santos Junior
 
-Arguments:  
+### Descrição
+A tarefa central a ser realizada neste trabalho consiste em projetar e implementar uma solução concorrente para o cálculo do número e mediante uma série infinita utilizando threads independentes/concorrentes aproveitando das abastrações fornecidas pelo Java como Executors, ExecutorService, etc.
+
+### Arguments:  
 To fixed pool: -f poolSize numberOfTerms
 
 > -f 10 10
