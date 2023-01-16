@@ -5,7 +5,7 @@
 #### Discentes: Márcio Tenório Júnior e Roberto Manaia dos Santos Junior
 
 ### Descrição
-A tarefa central a ser realizada neste trabalho consiste em projetar e implementar uma solução concorrente para o cálculo do número e mediante uma série infinita utilizando threads independentes/concorrentes aproveitando das abastrações fornecidas pelo Java como Executors, ExecutorService, etc e comparando as abordagens ``fixed``, ``cached`` e ``work stealing`` thread pools.
+A tarefa central a ser realizada neste trabalho consiste em projetar e implementar uma solução concorrente para o cálculo do número e mediante uma série infinita utilizando threads independentes/concorrentes aproveitando das abastrações fornecidas pelo Java como Executors, ExecutorService, etc e utilizando as abordagens ``fixed``, ``cached`` e ``work stealing`` thread pools.
 
 ### Arguments:  
 To fixed pool: -f poolSize numberOfTerms
